@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e1e6fd8e6cb3f3419b001429a52f800, type: 3}
-  m_Name: Pistola
+  m_Name: foto hermano
   m_EditorClassIdentifier: 
-  id: 3
-  itemName: Pistola
-  value: 3
-  icon: {fileID: 21300000, guid: 8b3bb83d0e0c1664e913915864120f9a, type: 3}
+  id: 7
+  itemName: foto hermano
+  value: 7
+  icon: {fileID: 21300000, guid: 0fc571cd7961c164d86d8ef388ea3f9f, type: 3}

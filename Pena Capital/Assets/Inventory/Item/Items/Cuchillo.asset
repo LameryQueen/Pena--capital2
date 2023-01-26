@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 5
   itemName: Cuchillo
   value: 5
-  icon: {fileID: 21300000, guid: 4250b1d030cadf84084628dde62e0976, type: 3}
+  icon: {fileID: 21300000, guid: 0dafbfa61d50b174987c90c305b0442a, type: 3}

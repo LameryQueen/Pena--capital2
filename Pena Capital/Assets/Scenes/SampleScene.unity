@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -9305,7 +9305,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6448961677158075226, guid: 3a605c35641bbec478fc6c6e01bacb1a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 174
+      value: 145.1
       objectReference: {fileID: 0}
     - target: {fileID: 6527905267693879163, guid: 3a605c35641bbec478fc6c6e01bacb1a, type: 3}
       propertyPath: persistentObject
@@ -9350,7 +9350,7 @@ PrefabInstance:
     - target: {fileID: 8168657037976744187, guid: 3a605c35641bbec478fc6c6e01bacb1a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 669416506668c3943bb8485bdea66504, type: 3}
+      objectReference: {fileID: 21300000, guid: 980121180f73e2d40abc27e4fb9acae5, type: 3}
     - target: {fileID: 8168657038044698405, guid: 3a605c35641bbec478fc6c6e01bacb1a, type: 3}
       propertyPath: m_UiScaleMode
       value: 1
@@ -10610,6 +10610,24 @@ Transform:
   m_Father: {fileID: 1476990560}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 89.785, y: 89.572, z: -89.972}
+--- !u!1 &1904220765 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 70e0249bf3f7c7e4cb04d71cd22a6f0c, type: 3}
+  m_PrefabInstance: {fileID: 292112396}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1904220768
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1904220765}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.024258368, y: 0.024219923, z: 0.072418615}
+  m_Center: {x: -0.00043167497, y: 0.0028348542, z: 0.0032620002}
 --- !u!4 &1906928569 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: be4d272bdf4ab644b9da9ab50250f6b6, type: 3}
